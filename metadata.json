@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Nexus",
+  "description": "A professional multi-modal AI suite featuring Repository Analysis, Chat, Vision, and Speech synthesis powered by Gemini 2.5 and 3.0 Pro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
